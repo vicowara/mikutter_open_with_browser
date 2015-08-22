@@ -1,0 +1,9 @@
+---
+slug: :mikutter_open_with_browser
+depends:
+  mikutter: 3.2.5
+  plugin: []
+version: '1.0'
+author: vicowara
+name: ツイートをブラウザで開くやつ
+description: そのまんま。右クリックの"ブラウザで開く"でツイートをブラウザで表示する。
