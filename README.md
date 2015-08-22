@@ -5,7 +5,7 @@
 
 ## インストール
 ```
-cd .mikutter/plugin
+cd ~/.mikutter/plugin
 git clone http://github.com/vicowara/mikutter_open_with_browser.git
 ```
 
