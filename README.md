@@ -10,4 +10,4 @@ git clone http://github.com/vicowara/mikutter_open_with_browser.git
 右クリック→ブラウザで開く
 
 ## システム要件
-*Linux(要xdg-open)
+* Linux(要xdg-open)
