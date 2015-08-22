@@ -1,5 +1,8 @@
 # mikutter\_open\_with\_browser
 
+## なにこれ
+ツイートを右クリックしてブラウザで開くやつ。夜フクロウにあるよね。
+
 ## インストール
 ```
 cd .mikutter/plugin
